@@ -12,11 +12,11 @@ int main()
 	cout << "Enter Age : " ;
 	cin  >> age ;
 	cout << "Enter Gender : " ;
-    cin  >> sex ;
-    cout << "Enter Weight : " ;
-    cin  >>  W  ;
-    cout << "Enter Height : " ;
-    cin  >>  H  ;
+        cin  >> sex ;
+        cout << "Enter Weight : " ;
+        cin  >>  W  ;
+        cout << "Enter Height : " ;
+        cin  >>  H  ;
     
 	bmi = W / (H/100 * H/100)  ;
 
